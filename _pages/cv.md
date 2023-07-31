@@ -10,7 +10,4 @@ redirect_from:
 {% include base_path %}
 
 
-  
-CV
-======
 * You can find my CV here: 
