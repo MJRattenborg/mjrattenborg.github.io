@@ -83,11 +83,11 @@ author:
   name             : "Malte Jacob Rattenborg"
   avatar           : "profile.jpg"
   bio              : "PhD Student"
-  location         : "University of Copenhagen, Department of Economics"
-  employer         :
+  location         : 
+  employer         : "University of Copenhagen"
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : malterattenborg@econ.ku.dk
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "malte-jacob-rattenborg"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
