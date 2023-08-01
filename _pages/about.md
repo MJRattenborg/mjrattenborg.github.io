@@ -10,7 +10,7 @@ redirect_from:
 <img src="/images/KU Econ 21 Malte Rattenborg.jpg" alt="drawing" width="370.5" height="285" style="float: left; padding-right:15px"/>
 I am doing a PhD at the [Department of Economics](https://www.economics.ku.dk/) at the Univeristy of Copenhagen. I am a member of the research unit [Behavioral Economics and Labor Market Performance](https://www.economics.ku.dk/research/ResearchCentres/labor-market-performance/). <br>
 
-My PhD supervisors are [Steffen Altmann](https://sites.google.com/site/steffenaltmann/) and [Robert Mahlstedt](http://www.robertmahlstedt.com/).  <br> 
+My PhD supervisors are [Steffen Altmann](https://sites.google.com/site/steffenaltmann/) and [Robert Mahlstedt](http://www.robertmahlstedt.com/).  <br> <br> 
 
 My research fields are labor economics and behavioral economics, with a particular focus on job search. You can find more information about my ongoing research [HERE](https://mjrattenborg.github.io/research/) <br>
 
