@@ -12,9 +12,9 @@ I am doing a PhD at the [Department of Economics](https://www.economics.ku.dk/) 
 
 My PhD supervisors are [Steffen Altmann](https://sites.google.com/site/steffenaltmann/) and [Robert Mahlstedt](http://www.robertmahlstedt.com/).  <br> <br> 
 
-My research fields are labor economics and behavioral economics, with a particular focus on job search. You can find more information about my ongoing research [HERE](https://mjrattenborg.github.io/research/) <br>
+My research fields are labor economics and behavioral economics, with a particular focus on job search. You can find more information about my ongoing research [here](https://mjrattenborg.github.io/research/) <br>
 
-I have teaching experience in theoretical microeconomics with a focus on game theory at the master's level. You can find more information about my teaching experience [HERE](https://mjrattenborg.github.io/teaching/)
+I have teaching experience in theoretical microeconomics with a focus on game theory at the master's level. You can find more information about my teaching experience [here](https://mjrattenborg.github.io/teaching/)
 
 
 Contact
