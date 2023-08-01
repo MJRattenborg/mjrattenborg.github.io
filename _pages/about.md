@@ -16,6 +16,9 @@ I have teaching experience in theoretical microeconomics with a focus on game th
 Contact
 ------
 Malte Jacob Rattenborg
+
 University of Copenhagen, Department of Economics
+
 Øster Farimagsgade 5, 1014 København K
+
 Denmark
