@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Malte Jacob Rattenborg"
-  avatar           : ##
+  name             : #"Malte Jacob Rattenborg"
+  avatar           : #
   bio              : "PhD Student"
   location         : 
   employer         : "University of Copenhagen"
