@@ -9,5 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-
-* My CV is available [here](/files/cv.pdf)
+* My CV is available [here](/files/CV.pdf)
