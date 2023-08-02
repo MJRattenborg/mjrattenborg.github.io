@@ -82,7 +82,7 @@ analytics:
 author:
   name             : #"Malte Jacob Rattenborg"
   avatar           : #
-  bio              : "PhD Student"
+  bio              : #"PhD Student"
   location         : 
   employer         : "University of Copenhagen"
   pubmed           : 
