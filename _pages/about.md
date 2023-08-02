@@ -14,12 +14,13 @@ My PhD supervisors are [Steffen Altmann](https://sites.google.com/site/steffenal
 
 My research fields are labor economics and behavioral economics, with a particular focus on job search. You can find more information about my ongoing research [here](https://mjrattenborg.github.io/research/) <br>
 
-I have teaching experience in theoretical microeconomics with a focus on game theory at the master's level. You can find more information about my teaching experience [here](https://mjrattenborg.github.io/teaching/)
+I have teaching experience in theoretical microeconomics with a focus on game theory. You can find more information about my teaching experience [here](https://mjrattenborg.github.io/teaching/)
 
 
 Contact
 ------
 Malte Jacob Rattenborg <br>
-University of Copenhagen, Department of Economics <br>
+University of Copenhagen <br>
+Department of Economics <br>
 Øster Farimagsgade 5, 1014 København K <br>
 Denmark
