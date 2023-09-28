@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<img src="/images/KU Econ 21 Malte Rattenborg.jpg" alt="drawing" width="390" height="300" style="float: left; padding-right:15px"/> 
 Welcome! <br>
 I am doing a PhD at the [Department of Economics](https://www.economics.ku.dk/) at the University of Copenhagen. I am a member of the research unit [Behavioral Economics and Labor Market Performance](https://www.economics.ku.dk/research/ResearchCentres/labor-market-performance/). <br>
 
