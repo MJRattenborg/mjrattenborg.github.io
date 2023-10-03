@@ -1,14 +1,13 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Welcome!"
+excerpt: "Welcome!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-Welcome! <br>
-I am doing a PhD at the [Department of Economics](https://www.economics.ku.dk/) at the University of Copenhagen, where I am a member of the research unit [Behavioral Economics and Labor Market Performance](https://www.economics.ku.dk/research/ResearchCentres/labor-market-performance/). <br>
+I am a PhD Fellow at the [Department of Economics](https://www.economics.ku.dk/) at the University of Copenhagen, where I am a member of the research unit [Behavioral Economics and Labor Market Performance](https://www.economics.ku.dk/research/ResearchCentres/labor-market-performance/). <br>
 
 My PhD supervisors are [Steffen Altmann](https://sites.google.com/site/steffenaltmann/) and [Robert Mahlstedt](http://www.robertmahlstedt.com/).  <br>
 
