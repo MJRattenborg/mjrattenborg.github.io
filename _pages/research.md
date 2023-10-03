@@ -9,5 +9,5 @@ author_profile: true
 
 ## Work in Progress
 
-**Occupational Job Search** (with [Steffen Altmann](https://sites.google.com/site/steffenaltmann/),
+**Career Aspirations of Unemployed Workers: Evidence from Online Job Search Profiles** (with [Steffen Altmann](https://sites.google.com/site/steffenaltmann/),
 [Robert Mahlstedt](http://www.robertmahlstedt.com/) and [Alexander Sebald](https://sites.google.com/view/alexandersebald/main)) <br/> 
