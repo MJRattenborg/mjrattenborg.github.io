@@ -11,9 +11,9 @@ I am a PhD Fellow at the [Department of Economics](https://www.economics.ku.dk/)
 
 Currently, I am also a Visiting Fellow at the [School of Industrial and Labor Relations (ILR)](https://www.ilr.cornell.edu/about-ilr) at Cornell University. 
 
-My research interests lie in labor and behavioral economics, with a focus on job search. In particular, I investigate how biased beliefs influence job search behavior and labor market outcomes. My approach combines:
-  (i) Theoretical modeling at the intersection of behavioral and labor economics.
-  (ii) Econometric analysis using administrative, survey, and job search data. 
+My research interests lie in labor and behavioral economics, with a focus on job search. In particular, I investigate how biased beliefs influence job search behavior and labor market outcomes. My approach combines: <br>
+  1. Theoretical modeling at the intersection of behavioral and labor economics. <br>
+  2. Econometric analysis using administrative, survey, and job search data. 
 
 You can find more information about my ongoing research [here](https://mjrattenborg.github.io/research/) <br>
 
