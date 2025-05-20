@@ -23,6 +23,9 @@ Our study investigates the occupational job search strategies of more than 60,00
 **Wage Expectations and Job Search** (with [Steffen Altmann](https://sites.google.com/site/steffenaltmann/),
 [Robert Mahlstedt](http://www.robertmahlstedt.com/), [Alexander Sebald](https://sites.google.com/view/alexandersebald/main), [Sonja Settele](https://sites.google.com/prod/view/sonjasettele/startseite) and [Johannes Wohlfart](https://sites.google.com/site/johanneswohlfartecon/home))  <br/> <br/> 
 [**Working Paper**](https://drive.google.com/file/d/1yswPOvd1BRQPAXOBeFksKoculBJBVWeA/view)
+<details>
 <summary>Click to view abstract</summary> 
 We conduct a field experiment to study how the subjective wage expectations of unemployed workers shape their job search behavior and re-employment prospects. Using matched survey-administrative data from more than 9,000 job seekers in Denmark, we first document that job seekers anchor their wage expectations to their pre-unemployment wages by more than is objectively justified. A random half of the sample receive information about the objective wage potential of comparable workers. Treated individuals update their own wage expectations towards the  provided signal and adjust their job search strategies. Ultimately, the treatment increases re-employment rates among both previously over-optimistic and previously overly pessimistic individuals, albeit through different channels. Initially optimistic individuals respond by lowering their reservation wages and increasing their search effort. Initially pessimistic individuals raise their reservation wages and shift their job search toward vacancies closer to home. Consistent with the presence of spatial search frictions---which we show are largely unanticipated by job seekers---narrowing the geographic scope of search enables treated individuals to find employment more quickly. <br/>
 </details> 
+
+**Misguided Job Search** (single-authored)
