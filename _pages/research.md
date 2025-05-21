@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-## Woring Papers
+## Working Papers
 
 **Wage Expectations and Job Search** (with [Steffen Altmann](https://sites.google.com/site/steffenaltmann/),
 [Robert Mahlstedt](http://www.robertmahlstedt.com/), [Alexander Sebald](https://sites.google.com/view/alexandersebald/main), [Sonja Settele](https://sites.google.com/prod/view/sonjasettele/startseite) and [Johannes Wohlfart](https://sites.google.com/site/johanneswohlfartecon/home))  <br/> <br/> 
