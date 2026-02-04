@@ -15,9 +15,11 @@ June 8/9, 2026 <br/>
 
 [Call for Papers](https://sites.google.com/view/behaviorallabor/call-for-papers-2026?authuser=0) <br/> 
 
-**Keynote Speakers**: Ingar Haaland (NHH), Benjamin Schoefer (UC Berkeley) <br/> 
+**Keynote Speakers**: <br/> 
+Ingar Haaland (NHH), Benjamin Schoefer (UC Berkeley) <br/> 
 
-**Organizers**: Simon Cordes (University of Bonn), Ida Maria Hartmann (University of Copenhagen), Valentin Kecht (University of Bonn), Malte Jacob Rattenborg (University of Copenhagen) <br/> 
+**Organizers**: <br/> 
+Simon Cordes (University of Bonn), Ida Maria Hartmann (University of Copenhagen), Valentin Kecht (University of Bonn), Malte Jacob Rattenborg (University of Copenhagen) <br/> 
 
 Submission Deadline: January 31, 2026 (23:59 EST) <br/> 
 
