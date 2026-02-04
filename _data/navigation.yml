@@ -9,8 +9,8 @@ main:
   - title: "Teaching"
     url: /teaching/    
 
-   - title: "PhD Workshop in Labor and Behavioral Economics"
-   url: /behaviorallabor/   
+  # - title: "PhD Workshop in Labor and Behavioral Economics"
+  # url: /behaviorallabor/   
     
   #- title: "Portfolio"
   #  url: /portfolio/
