@@ -28,4 +28,4 @@ Our study investigates the occupational job search strategies of more than 60,00
 
 ## Work in Progress
 
-**Misguided Job Search** (single-authored)
+**Self-Image Concerns and Job Search** (single-authored)
