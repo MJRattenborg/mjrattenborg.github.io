@@ -4,13 +4,13 @@ main:
    #url: /research/
    
   - title: "Research"
-    url: /research/
-
-  #- title: "Talks"
-  #  url: /talks/    
+    url: /research/ 
 
   - title: "Teaching"
     url: /teaching/    
+
+   - title: "PhD Workshop in Labor and Behavioral Economics"
+    url: /behaviorallabor/   
     
   #- title: "Portfolio"
   #  url: /portfolio/
