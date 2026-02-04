@@ -25,8 +25,7 @@ I have gained teaching experience in theoretical microeconomics with a focus on 
 
 Contact
 ------
-malterattenborg@econ.ku.dk <br>
-University of Copenhagen <br>
+malte.rattenborg@wiso.uni-koeln.de <br>
+University of Cologne <br>
 Department of Economics <br>
-Øster Farimagsgade 5, 1353 København K <br>
-Denmark
+Germany
