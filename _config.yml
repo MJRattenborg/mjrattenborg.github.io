@@ -84,9 +84,9 @@ author:
   avatar           : "Picture.jpg"
   bio              : "Labor Economics <br> Behavioral Economics <br> Job Search"
   location         : 
-  employer         : "University of Copenhagen"
+  employer         : "University of Cologne and University of Copenhagen"
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=RPDRVpQAAAAJ&hl=de&oi=ao"
   email            : malterattenborg@econ.ku.dk
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
