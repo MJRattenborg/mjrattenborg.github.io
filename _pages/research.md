@@ -11,7 +11,7 @@ author_profile: true
 
 **Wage Expectations and Job Search** (with [Steffen Altmann](https://sites.google.com/site/steffenaltmann/),
 [Robert Mahlstedt](http://www.robertmahlstedt.com/), [Alexander Sebald](https://sites.google.com/view/alexandersebald/main), [Sonja Settele](https://sites.google.com/prod/view/sonjasettele/startseite) and [Johannes Wohlfart](https://sites.google.com/site/johanneswohlfartecon/home))  <br/> <br/> 
-[**ECONtribute Discussion Paper**]((https://www.econtribute.de/RePEc/ajk/ajkdps/ECONtribute_386_2026.pdf))
+[**ECONtribute Discussion Paper**](https://www.econtribute.de/RePEc/ajk/ajkdps/ECONtribute_386_2026.pdf)
 [**CESifo Working Paper**](https://www.ifo.de/DocDL/cesifo1_wp12420.pdf)
 <details>
 <summary>Click to view abstract</summary> 
