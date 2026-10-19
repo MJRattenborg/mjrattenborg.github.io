@@ -78,15 +78,17 @@
 
   @include breakpoint($large) {
     display: block;
-    width: auto;
+    width: 240px;
+    max-width: 100%;
     height: auto;
+    overflow: hidden;
   }
 
   img {
-    /* Make the avatar image responsive and constrained so it can't overflow its container */
-    width: 100%;        /* fill the avatar container */
-    max-width: 500px;   /* but never exceed original image width */
-    height: auto;       /* preserve aspect ratio */
+    /* Constrain image to the avatar container so it cannot overflow */
+    width: 100%;
+    max-width: 100%;
+    height: auto;
     object-fit: cover;
     object-position: center;
     border-radius: 0;

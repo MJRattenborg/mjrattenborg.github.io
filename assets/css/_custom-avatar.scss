@@ -1,17 +1,16 @@
 /*
- * Ensure the author avatar displays proportionally without being cropped.
- * The original portrait is landscape, so we keep its aspect ratio and let
- * the container expand naturally.
+ * Force the author avatar to remain within the avatar box and stop it from overflowing.
+ * This is intentionally conservative and only constrains the avatar area.
  */
 
 .author__avatar,
 .author__avatar img,
 img.author__avatar {
   width: 100%;
-  max-width: 100%;
+  max-width: 240px;
   height: auto !important;
   display: block;
-  object-fit: contain;
+  object-fit: cover;
   object-position: center;
   border-radius: 4px;
   padding: 0;
@@ -21,6 +20,7 @@ img.author__avatar {
 .author__avatar {
   min-height: 0 !important;
   height: auto !important;
+  overflow: hidden;
 }
 
 @media (min-width: 768px) {
