@@ -1,34 +1,6 @@
 /*
-  Override to set a safe, fixed avatar size and prevent layout blowups.
-  Loaded after main.css so it wins over other rules.
+  Removed forceful avatar overrides — reverting to the site's previous styling.
+  This file intentionally left mostly empty to avoid interfering with layout.
 */
 
-.author__avatar {
-  display: block !important;
-  width: auto !important;
-  max-width: none !important;
-  margin: 0 !important;
-  padding: 0 !important;
-  box-sizing: border-box !important;
-  overflow: visible !important;
-}
-
-.author__avatar img,
-img.author__avatar {
-  display: block !important;
-  width: 120px !important;      /* exact visual width on most screens */
-  max-width: 120px !important;
-  height: auto !important;
-  object-fit: cover !important;
-  object-position: center !important;
-  margin: 0 !important;
-  padding: 0 !important;
-}
-
-@media (min-width: 1024px) {
-  .author__avatar img,
-  img.author__avatar {
-    width: 200px !important;   /* slightly larger on wide screens */
-    max-width: 200px !important;
-  }
-}
+/* No overrides active. */
