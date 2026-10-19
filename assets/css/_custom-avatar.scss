@@ -1,0 +1,30 @@
+/*
+ * Ensure the author avatar displays proportionally without being cropped.
+ * The original portrait is landscape, so we keep its aspect ratio and let
+ * the container expand naturally.
+ */
+
+.author__avatar,
+.author__avatar img,
+img.author__avatar {
+  width: 100%;
+  max-width: 100%;
+  height: auto !important;
+  display: block;
+  object-fit: contain;
+  object-position: center;
+  border-radius: 4px;
+  padding: 0;
+  margin: 0;
+}
+
+.author__avatar {
+  min-height: 0 !important;
+  height: auto !important;
+}
+
+@media (min-width: 768px) {
+  .author__avatar {
+    max-width: 240px;
+  }
+}
