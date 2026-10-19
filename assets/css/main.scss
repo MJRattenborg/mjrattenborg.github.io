@@ -5,10 +5,10 @@
  *    Minimal Mistakes Jekyll Theme
  *
  *  - Michael Rose
- *  - mademistakes.com
- *  - https://twitter.com/mmistakes
+ *  *  - mademistakes.com
+ *  *  - https://twitter.com/mmistakes
  *
-*/
+ */
 
 @import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
@@ -47,14 +47,15 @@
   top: 0;
   width: 20vw; /* 1/5 of viewport width */
   height: 100vh;
-  background: linear-gradient(135deg, #8B0000 0%, #660000 100%);
-  border-right: 1px solid #eaeaea;
+  /* make sidebar neutral/white instead of red */
+  background: linear-gradient(135deg, $background-color 0%, $lighter-gray 100%);
+  border-right: 1px solid $border-color;
   padding: 2rem 0;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  box-shadow: 2px 0 20px rgba(139, 0, 0, 0.1);
+  box-shadow: 2px 0 20px rgba($dark-gray, 0.06);
 }
 
 .sidebar-content {
@@ -70,7 +71,7 @@
   max-width: 180px;
   aspect-ratio: 1;
   margin: 0 auto 2rem;
-  border: 3px solid white;
+  border: 3px solid $background-color;
   border-radius: 50%;
   cursor: pointer;
   transition: transform 0.2s ease;
@@ -95,7 +96,7 @@
 .nav-link {
   display: block;
   padding: 0.8rem;
-  color: white;
+  color: $text-color;
   text-decoration: none;
   transition: color 0.2s;
   font-size: 0.95rem;
@@ -103,8 +104,8 @@
 }
 
 .nav-link:hover {
-  color: #ffcccc;
-  background-color: rgba(255, 255, 255, 0.1);
+  color: $masthead-link-color;
+  background-color: rgba($lighter-gray, 0.06);
 }
 
 /* Main Content Adjustment */
@@ -134,7 +135,7 @@
   width: 24px;
   height: 2px;
   margin: 5px 0;
-  background-color: #333;
+  background-color: $dark-gray;
   transition: all 0.3s ease;
 }
 
@@ -151,22 +152,22 @@
     left: auto;
     width: 250px;
     height: 100vh;
-    background: #8B0000;
+    background: $background-color;
     transition: transform 0.3s ease;
     z-index: 1000;
-    box-shadow: -2px 0 5px rgba(0,0,0,0.1);
+    box-shadow: -2px 0 5px rgba($dark-gray,0.06);
   }
 
   .nav-link {
-    color: white;
+    color: $text-color;
     font-size: 1rem;
     padding: 1rem;
     text-align: center;
   }
   
   .nav-link:hover {
-    color: #ffcccc;
-    background-color: rgba(255, 255, 255, 0.1);
+    color: $masthead-link-color;
+    background-color: rgba($lighter-gray, 0.06);
   }
 
   .sidebar.active {
@@ -244,7 +245,7 @@
   font-weight: 500;
   padding: 0.75rem;
   overflow: hidden;
-  background-color: #FFF5F5;
+  background-color: $lighter-gray;
 }
 
 .button-icon {
@@ -254,15 +255,15 @@
 }
 
 .cv-button {
-  background-color: #FFF5F5;
-  color: #333;
+  background-color: $lighter-gray;
+  color: $text-color;
 }
 
 .social-button {
   width: 3rem;
   height: 3rem;
-  background-color: #FFF5F5;
-  color: #333;
+  background-color: $lighter-gray;
+  color: $text-color;
 }
 
 .research-statement-link {
@@ -278,11 +279,11 @@
 }
 
 .button:hover {
-  background-color: #FFE6E6;
+  background-color: $light-gray;
   text-decoration: none;
-  color: #333;
+  color: $text-color;
   transform: translateY(-3px);
-  box-shadow: 0 4px 12px rgba(139, 0, 0, 0.15);
+  box-shadow: 0 4px 12px rgba($dark-gray, 0.06);
 }
 
 /* Add to your mobile styles */
@@ -330,8 +331,8 @@
   font-weight: 500;
   margin-bottom: 2rem;
   padding-bottom: 0.5rem;
-  border-bottom: 2px solid #8B0000;
-  color: #8B0000;
+  border-bottom: 2px solid $primary-color;
+  color: $primary-color;
   letter-spacing: 0.05em;
 }
 
@@ -340,13 +341,13 @@
   padding: 2rem;
   border-radius: 8px;
   transition: transform 0.2s ease, box-shadow 0.2s ease;
-  background-color: rgba(255, 255, 255, 0.5);
-  box-shadow: 0 2px 4px rgba(139, 0, 0, 0.05);
+  background-color: $background-color;
+  box-shadow: 0 2px 4px rgba($dark-gray, 0.03);
 }
 
 .paper:hover {
   transform: translateY(-2px);
-  box-shadow: 0 4px 8px rgba(139, 0, 0, 0.1);
+  box-shadow: 0 4px 8px rgba($dark-gray, 0.06);
 }
 
 .paper h3 {
@@ -356,7 +357,7 @@
 }
 
 .paper-meta {
-  color: #666;
+  color: mix(#000, $text-color, 40%);
   margin-bottom: 1rem;
 }
 
@@ -366,22 +367,22 @@
   a {
     display: inline-block;
     padding: 0.25rem 0.75rem;
-    background-color: #FFE6E6;
+    background-color: $lighter-gray;
     border-radius: 3px;
-    color: #333;
+    color: $text-color;
     text-decoration: none;
     margin-right: 0.5rem;
     transition: all 0.2s ease;
     
     &:hover {
-      background-color: #FFD6D6;
+      background-color: $light-gray;
     }
   }
 }
 
 .paper-abstract {
   padding: 1rem;
-  background-color: #FFE6E6;
+  background-color: $lighter-gray;
   border-radius: 4px;
 }
 
@@ -425,10 +426,10 @@ html {
   left: 0;
   width: 100%;
   height: 60px;
-  background-color: #8B0000;
+  background-color: $background-color;
   z-index: 1000;
   padding: 0 1rem;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  box-shadow: 0 2px 4px rgba($dark-gray,0.06);
 }
 
 .mobile-nav-content {
@@ -442,7 +443,7 @@ html {
 }
 
 .mobile-title {
-  color: white;
+  color: $text-color;
   font-size: 1.2rem;
   font-weight: 500;
   margin: 0;
@@ -467,7 +468,7 @@ html {
   }
 
   .hamburger-menu span {
-    background-color: white;
+    background-color: $background-color;
   }
 
   .sidebar {
@@ -477,7 +478,7 @@ html {
     top: 60px;
     width: 100%;
     height: calc(100vh - 60px);
-    background-color: #8B0000;
+    background-color: $background-color;
     z-index: 1000;
     padding-top: 2rem;
     display: flex;
@@ -502,17 +503,17 @@ html {
   }
 
   .nav-link {
-    color: white;
+    color: $text-color;
     font-size: 1rem;
     padding: 1rem;
     text-align: center;
     width: 100%;
-    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    border-bottom: 1px solid rgba($lighter-gray, 0.08);
   }
 
   .nav-link:hover {
-    color: #ffcccc;
-    background-color: rgba(255, 255, 255, 0.1);
+    color: $masthead-link-color;
+    background-color: rgba($lighter-gray, 0.06);
   }
 
   .sidebar.active {
@@ -547,7 +548,7 @@ body {
   font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
   font-weight: 400;
   line-height: 1.6;
-  background-color: #FFF5F5; /* Very light pink */
+  background-color: $background-color; /* Neutral background */
 }
 
 /* Header fonts */
@@ -581,7 +582,7 @@ body {
   left: 0;
   width: 0;
   height: 3px;
-  background: #8B0000;
+  background: $primary-color;
   z-index: 1002;
   transition: width 0.1s ease;
 }
@@ -604,4 +605,4 @@ body {
     height: 4.5rem;
     font-size: 16px;
   }
-}
+  }
