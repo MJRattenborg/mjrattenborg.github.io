@@ -1,14 +1,23 @@
 /*
-  Override to force avatar larger on the live site.
-  This file is loaded after main.css to ensure it wins over other rules.
+  Override to set a safe, fixed avatar size and prevent layout blowups.
+  Loaded after main.css so it wins over other rules.
 */
 
-.author__avatar,
+.author__avatar {
+  display: block !important;
+  width: auto !important;
+  max-width: none !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  box-sizing: border-box !important;
+  overflow: visible !important;
+}
+
 .author__avatar img,
 img.author__avatar {
-  width: 100% !important;
-  max-width: 120px !important; /* cap the avatar width to reduce size */
   display: block !important;
+  width: 120px !important;      /* exact visual width on most screens */
+  max-width: 120px !important;
   height: auto !important;
   object-fit: cover !important;
   object-position: center !important;
@@ -17,8 +26,9 @@ img.author__avatar {
 }
 
 @media (min-width: 1024px) {
-  .author__avatar {
-    max-width: 200px !important; /* allow a larger avatar on very wide screens */
-    box-sizing: border-box !important;
+  .author__avatar img,
+  img.author__avatar {
+    width: 200px !important;   /* slightly larger on wide screens */
+    max-width: 200px !important;
   }
 }
