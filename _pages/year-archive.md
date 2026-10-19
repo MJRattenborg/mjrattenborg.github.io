@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /year-archive/
-title: "PhD Workshop in Labor and Behavioral Economics"
+title: "PhD Workshop in Labor and Behavioral Economics — 2026"
 author_profile: true
 redirect_from:
   - /wordpress/blog-posts/
@@ -9,28 +9,32 @@ redirect_from:
 
 {% include base_path %}
 
-Center for Economic Behavior and Inequality (CEBI) <br/> 
-University of Copenhagen <br/> 
-June 8/9, 2026 <br/> 
+Center for Economic Behavior and Inequality (CEBI)  
+University of Copenhagen  
+June 8–9, 2026
 
-[Call for Papers](https://sites.google.com/view/behaviorallabor/call-for-papers-2026?authuser=0) <br/> 
+This page documents the PhD Workshop in Labor and Behavioral Economics, held at CEBI (University of Copenhagen) on June 8–9, 2026. The workshop brought together PhD students and recent graduates working at the intersection of behavioral and labor economics.
 
-**Keynote Speakers**: <br/> 
-Ingar Haaland (NHH), Benjamin Schoefer (UC Berkeley) <br/> 
+Call for Papers (archived): https://sites.google.com/view/behaviorallabor/call-for-papers-2026?authuser=0  
 
-**Organizers**: <br/> 
-Simon Cordes (University of Bonn), Ida Maria Hartmann (University of Copenhagen), Valentin Kecht (University of Bonn), Malte Jacob Rattenborg (University of Copenhagen) <br/> 
+Keynote Speakers:  
+Ingar Haaland (NHH), Benjamin Schoefer (UC Berkeley)
 
-Submission Deadline: January 31, 2026 (23:59 EST) <br/> 
+Organizers:  
+Simon Cordes (University of Bonn), Ida Maria Hartmann (University of Copenhagen), Valentin Kecht (University of Bonn), Malte Jacob Rattenborg (University of Copenhagen)
 
-Notification of Acceptance: February 28, 2026 <br/> 
+Program and Materials
 
+- Program, slides, and any available papers will be added here as they are uploaded. If you provided a slide or paper and want it linked from this page, please send it to the organizers.
 
-**About the Workshop**  <br/> 
-The workshop aims to encourage new research at the intersection of behavioral and labor economics. Its goal is to provide a platform for PhD students and recent graduates to present their research and receive feedback on their work. Contributions from all areas and applications of behavioral and labor economics are welcome, including empirical and theoretical research. The workshop targets current PhD students and early-career researchers who have graduated in 2025 or later and are working as postdocs and assistant professors, or equivalent.  <br/> 
+Logistics and Costs
 
+The workshop was hosted and sponsored by CEBI. There was no conference fee and conference meals were covered for invited participants. Participants were responsible for their own travel and accommodation.
 
-**Costs**  <br/> 
-The conference will be hosted and sponsored by CEBI. There is no conference fee. Conference meals will be covered for all invited participants. Participants are responsible for their own travel and accommodation expenses.  <br/> 
+Acknowledgements
 
-For questions and comments, please contact organizersbehaviorallabor@gmail.com
+We thank CEBI and the organizers for support in running the workshop and the keynote speakers for their contributions.
+
+Contact
+
+For questions about the workshop archive, materials, or corrections, contact the organizers at [organizersbehaviorallabor@gmail.com](mailto:organizersbehaviorallabor@gmail.com).
