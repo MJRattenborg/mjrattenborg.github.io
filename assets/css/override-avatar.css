@@ -1,0 +1,24 @@
+/*
+  Override to force avatar larger on the live site.
+  This file is loaded after main.css to ensure it wins over other rules.
+*/
+
+.author__avatar,
+.author__avatar img,
+img.author__avatar {
+  width: 100% !important;
+  max-width: none !important;
+  display: block !important;
+  height: auto !important;
+  object-fit: cover !important;
+  object-position: center !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+@media (min-width: 768px) {
+  .author__avatar {
+    min-width: 480px !important; /* adjust to taste */
+    box-sizing: border-box !important;
+  }
+}
