@@ -29,4 +29,4 @@ Our study investigates the occupational job search strategies of more than 60,00
 
 ## Work in Progress
 
-**Self-Image Concerns and Job Search** (single-authored)
+**Is It Me or the Market? Belief Formation and the Dynamics of Job Search** (single-authored)
