@@ -113,11 +113,12 @@ $x-large                    : 1280px !default;
    ========================================================================== */
 
 /*
-  Doubled the right sidebar widths as requested so the sidebar is twice as wide.
+  Increased the right sidebar widths to give the avatar ~3x the previous small size.
+  Tweak these if you want more/less space.
 */
-$right-sidebar-width-narrow : 440px;
-$right-sidebar-width        : 560px;
-$right-sidebar-width-wide   : 720px;
+$right-sidebar-width-narrow : 360px;
+$right-sidebar-width        : 420px;
+$right-sidebar-width-wide   : 540px;
 
 $susy: (
   columns: 12,
