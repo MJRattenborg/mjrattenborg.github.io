@@ -9,4 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-* My CV is available [here](/files/CV.pdf)
+<p><strong>My CV</strong></p>
+
+<!-- Embedded PDF: displays the PDF inline when the browser supports it -->
+<object data="/files/CV.pdf" type="application/pdf" width="100%" height="900">
+  <p>Your browser does not support inline PDFs. You can <a href="/files/CV.pdf">download the PDF</a> instead.</p>
+</object>
+
+
+* Or download it directly: [My CV](/files/CV.pdf)
