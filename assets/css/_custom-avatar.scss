@@ -23,8 +23,12 @@ img.author__avatar {
   height: auto !important;
 }
 
+/* Remove the previous hard cap and allow the avatar to grow on wider screens.
+   Add a desktop minimum width so the image becomes noticeably larger. */
 @media (min-width: 768px) {
   .author__avatar {
-    max-width: 240px;
+    max-width: none !important;
+    min-width: 480px !important; /* increase this if you want the image even bigger */
+    box-sizing: border-box !important;
   }
 }
