@@ -83,10 +83,10 @@
   }
 
   img {
-    /* Set avatar to the requested 500x333px rectangle, but remain responsive */
-    width: 500px;
-    height: 333px;
-    max-width: 100%;
+    /* Make the avatar image responsive and constrained so it can't overflow its container */
+    width: 100%;        /* fill the avatar container */
+    max-width: 500px;   /* but never exceed original image width */
+    height: auto;       /* preserve aspect ratio */
     object-fit: cover;
     object-position: center;
     border-radius: 0;
