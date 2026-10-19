@@ -10,11 +10,11 @@ author_profile: true
 ## As Lecturer and Course Responsible
 
 ### Behavioral Economics and Survey Experiments
-*PhD · University of Cologne · Fall 2026*
+*PhD · University of Cologne · Fall 2026* <br>
 Co-taught with [Johannes Wohlfart](https://sites.google.com/site/johanneswohlfartecon/home) and [Sonja Settele](https://sites.google.com/prod/view/sonjasettele/startseite). The course covers, e.g. belief formation, expectations, and the design of information-provision experiments in surveys, with a focus on helping students develop their own survey-experimental research.
 
 ### Behavioral Finance
-*Bachelor · University of Cologne · Spring 2026*
+*Bachelor · University of Cologne · Spring 2026* <br>
 Sole lecturer. The course introduces, e.g. investor biases, limits to arbitrage, and household financial decision-making.
 
 ## As Teaching Assistant
