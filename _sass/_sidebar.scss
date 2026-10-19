@@ -72,26 +72,32 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 36px;
+  width: 180px;
+  min-width: 180px;
+  max-width: 100%;
   // set width only, for non-square avatars
   // height: 36px;
 
   @include breakpoint($large) {
     display: block;
     width: auto;
+    min-width: 0;
     height: auto;
   }
 
   img {
     /* Set avatar to the requested 500x333px rectangle, but remain responsive */
-    width: 500px;
-    height: 333px;
+    display: block;
+    width: 100%;
+    height: auto;
     max-width: 100%;
+    aspect-ratio: 500 / 333;
     object-fit: cover;
     object-position: center;
     border-radius: 0;
 
     @include breakpoint($large) {
+      width: 100%;
       padding: 5px;
       border: 1px solid $border-color;
     }
