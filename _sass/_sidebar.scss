@@ -83,8 +83,13 @@
   }
 
   img {
-    max-width: 175px;
-    border-radius: 50%;
+    /* Set avatar to the requested 500x333px rectangle, but remain responsive */
+    width: 500px;
+    height: 333px;
+    max-width: 100%;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 0;
 
     @include breakpoint($large) {
       padding: 5px;
