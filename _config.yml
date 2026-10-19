@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : #"Malte Jacob Rattenborg"
-  avatar           : "Portrait-Prof-Malte-Rattenborg_FullRes.jpg"
+  avatar           : "" #Portrait-Prof-Malte-Rattenborg_FullRes.jpg
   bio              : "Labor Economics <br> Behavioral Economics <br> Job Search"
   location         : 
   employer         : "University of Cologne"
