@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am a Postdoctoral Researcher at the Department of Economics at the University of Cologne, where I am a member of the research unit of [Johannes Wohlfart](https://sites.google.com/site/johanneswohlfartecon/home). <br>
 
-I submitted my PhD Thesis at the Department of Economics at the University of Copenhagen. During my PhD, I was affiliated with the research group [Behavioral Economics and Labor Market Performance](https://www.economics.ku.dk/research/ResearchCentres/labor-market-performance/). My PhD supervisors were [Steffen Altmann](https://sites.google.com/site/steffenaltmann/), [Robert Mahlstedt](http://www.robertmahlstedt.com/) and [Alexander Sebald](https://sites.google.com/view/alexandersebald/main)  <br>
+I completed my PhD at the Department of Economics at the University of Copenhagen. During my PhD, I was affiliated with the research group [Behavioral Economics and Labor Market Performance](https://www.economics.ku.dk/research/ResearchCentres/labor-market-performance/). My PhD supervisors were [Steffen Altmann](https://sites.google.com/site/steffenaltmann/), [Robert Mahlstedt](http://www.robertmahlstedt.com/) and [Alexander Sebald](https://sites.google.com/view/alexandersebald/main)  <br>
 
 In 2024, I was a Visiting Fellow at the [School of Industrial and Labor Relations (ILR)](https://www.ilr.cornell.edu/about-ilr) at Cornell University, by invitation of [Philipp Kircher](https://philippkircher.com/) <br>
 
@@ -20,7 +20,7 @@ My research lies at the intersection of labor and behavioral economics, with a f
 
 You can find more information about my ongoing research [here](https://mjrattenborg.github.io/research/) <br>
 
-I have gained teaching experience in theoretical microeconomics with a focus on game theory. You can find more information about my teaching experience [here](https://mjrattenborg.github.io/teaching/)
+I have gained teaching experience in behavioral economics and finance, survey methodology and theoretical microeconomics. You can find more information about my teaching experience [here](https://mjrattenborg.github.io/teaching/)
 
 
 Contact
