@@ -45,7 +45,7 @@
   position: fixed;
   left: 0;
   top: 0;
-  width: 20vw; /* 1/5 of viewport width */
+  width: 50vw; /* 1/5 of viewport width */
   height: 100vh;
   /* make sidebar neutral/white instead of red */
   background: linear-gradient(135deg, $background-color 0%, $lighter-gray 100%);
@@ -68,7 +68,7 @@
 
 .profile-image-container {
   width: 99%;
-  max-width: 240px;
+  max-width: 480px;
   aspect-ratio: 1;
   margin: 0 auto 2rem;
   border: 3px solid $background-color;
