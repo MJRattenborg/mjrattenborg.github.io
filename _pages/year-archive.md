@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /year-archive/
-title: "Workshop Organizaton"
+title: "PhD Workshop in Labor and Behavioral Economics — 2026"
 author_profile: true
 redirect_from:
   - /wordpress/blog-posts/
@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-**PhD Workshop in Labor and Behavioral Economics — 2026** <br>
 Center for Economic Behavior and Inequality (CEBI)  
 University of Copenhagen  
 June 8–9, 2026
