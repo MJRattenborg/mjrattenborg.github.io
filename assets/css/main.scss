@@ -22,9 +22,6 @@
 @import "archive";
 @import "sidebar";
 
-/* Ensure custom avatar rules are compiled after sidebar styles */
-@import "custom-avatar";
-
 @import "vendor/font-awesome/fontawesome";
 @import "vendor/font-awesome/solid";
 @import "vendor-font-awesome/brands";
