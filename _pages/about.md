@@ -7,14 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<table style="border: none; border-collapse: collapse; width: 100%;">
-  <tr>
-    <td style="border: none; width: 220px; vertical-align: top;">
-      <img src="/images/Portrait.jpg" alt="Portrait"
-           style="width: 200px; height: auto;">
-    </td>
-    <td style="border: none; vertical-align: top;">
-
+<img src="/images/Portrait.jpg" alt="Portrait" style="width: 100%; max-width: 300px;"> <br> <br>
 I am a Postdoctoral Researcher at the Department of Economics at the University of Cologne, where I am a member of the research unit of [Johannes Wohlfart](https://sites.google.com/site/johanneswohlfartecon/home). <br>
 
 I am also an Affiliated Member at the Center for Social and Economic Behavior (C-SEB) and a Research Affiliate at the IZA@LISER Network.
@@ -22,9 +15,6 @@ I am also an Affiliated Member at the Center for Social and Economic Behavior (C
 I completed my PhD at the Department of Economics at the University of Copenhagen. During my PhD, I was affiliated with the research group [Behavioral Economics and Labor Market Performance](https://www.economics.ku.dk/research/ResearchCentres/labor-market-performance/). My PhD supervisors were [Steffen Altmann](https://sites.google.com/site/steffenaltmann/), [Robert Mahlstedt](http://www.robertmahlstedt.com/) and [Alexander Sebald](https://sites.google.com/view/alexandersebald/main)  <br>
 
 In 2024, I was a Visiting Fellow at the [School of Industrial and Labor Relations (ILR)](https://www.ilr.cornell.edu/about-ilr) at Cornell University, by invitation of [Philipp Kircher](https://philippkircher.com/) <br>
-  </td>
-  </tr>
-</table>
 
 My research lies at the intersection of labor and behavioral economics, with a focus on job search and unemployment. I combine online job search data with administrative records and field experiments to study belief formation among job seekers and the implications of beliefs for search behavior. Methodologically, my work integrates: <br>
   1. Theoretical modeling at the intersection of behavioral and labor economics. <br>
