@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![Portrait](/assets/images/Portrait.jpg) <br>  <br>
+![Portrait](/images/Portrait.jpg) <br>  <br>
 
 
 I am a Postdoctoral Researcher at the Department of Economics at the University of Cologne, where I am a member of the research unit of [Johannes Wohlfart](https://sites.google.com/site/johanneswohlfartecon/home). <br>
