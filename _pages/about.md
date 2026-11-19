@@ -38,3 +38,8 @@ malte.rattenborg@wiso.uni-koeln.de <br>
 University of Cologne <br>
 Department of Economics <br>
 Germany
+
+[Google Scholar](https://scholar.google.com/citations?user=RPDRVpQAAAAJ&hl=de&oi=ao) <br>
+
+[LinkedIn](https://www.linkedin.com/in/malte-jacob-rattenborg/)
+
