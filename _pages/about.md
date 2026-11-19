@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am a Postdoctoral Researcher at the Department of Economics at the University of Cologne, where I am a member of the research unit of [Johannes Wohlfart](https://sites.google.com/site/johanneswohlfartecon/home). <br>
 
-I am also an Affiliated Member at the Center for Social and Economic Behavior (C-SEB), University of Cologne and a Research Affiliate at the IZA@LISER Network by the Luxembourg Institute of Socio-Economic Research (LISER).
+I am also an Affiliated Member at the Center for Social and Economic Behavior (C-SEB) and a Research Affiliate at the IZA@LISER Network.
 
 I completed my PhD at the Department of Economics at the University of Copenhagen. During my PhD, I was affiliated with the research group [Behavioral Economics and Labor Market Performance](https://www.economics.ku.dk/research/ResearchCentres/labor-market-performance/). My PhD supervisors were [Steffen Altmann](https://sites.google.com/site/steffenaltmann/), [Robert Mahlstedt](http://www.robertmahlstedt.com/) and [Alexander Sebald](https://sites.google.com/view/alexandersebald/main)  <br>
 
