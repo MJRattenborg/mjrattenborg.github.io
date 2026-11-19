@@ -76,6 +76,12 @@
   transition: transform 0.2s ease;
 }
 
+.sidebar .author__avatar,
+.sidebar .author__content,
+.sidebar .author__urls-wrapper {
+  display: none;
+}
+
 .profile-image-container:hover {
   transform: translateY(-2px);
 }
