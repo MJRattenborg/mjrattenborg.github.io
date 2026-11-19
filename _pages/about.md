@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![Portrait](/images/Portrait.jpg) <br>  <br>
+<img src="/images/Portrait.jpg" alt="Portrait" style="width: 100%; max-width: 300px;"> <br>  <br>
 
 
 I am a Postdoctoral Researcher at the Department of Economics at the University of Cologne, where I am a member of the research unit of [Johannes Wohlfart](https://sites.google.com/site/johanneswohlfartecon/home). <br>
