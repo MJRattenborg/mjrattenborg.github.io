@@ -7,7 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<img src="/images/Portrait.jpg" alt="Portrait" style="width: 100%; max-width: 200px;"> <br>  <br>
+<div style="display: flex; align-items: flex-start; gap: 24px;">
+  <img src="/images/Portrait.jpg"
+       alt="Portrait"
+       style="width: 200px; max-width: 40%; height: auto;">
+  <div>
 
 
 I am a Postdoctoral Researcher at the Department of Economics at the University of Cologne, where I am a member of the research unit of [Johannes Wohlfart](https://sites.google.com/site/johanneswohlfartecon/home). <br>
